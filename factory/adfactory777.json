@@ -1,0 +1,15 @@
+{
+	"name": "adfactory777",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad4769f7-0924-48d9-b002-2431cf64e1ac",
+		"tenantId": "52bebe9e-e02e-42a0-928d-aa5dc48ff37b"
+	}
+}
